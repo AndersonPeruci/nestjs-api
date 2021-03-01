@@ -1,0 +1,4 @@
+Controllers: São responsáveis pelas requests da aplicação;
+Decorators: O que tiver @ na frente é um decorator;
+Providers: Onde ficam todas as regras de negócio. Ex.: Conexão com BD;
+Modules: Usado para agrupamento de controllers, providers, entre outros;
